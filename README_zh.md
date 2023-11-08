@@ -1,5 +1,5 @@
 # rrvState
-一个ts写的状态管理库，支持ts
+一个ts写的状态管理库，支持js
 ## 示例
 ```
 export const S = new Storage({
